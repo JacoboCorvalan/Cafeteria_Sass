@@ -1,0 +1,30 @@
+{
+  "name": "07-cafeteria-sass",
+  "version": "1.0.0",
+  "description": "SASS y GULP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacobo Corvalán",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "cssnano": "^5.0.12",
+    "gulp": "^4.0.2",
+    "gulp-avif": "^1.0.1",
+    "gulp-imagemin": "^7.0.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-webp": "^4.0.1",
+    "sass": "^1.44.0"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%"
+  ],
+  "dependencies": {
+    "imagemin": "^7.0.1"
+  }
+}
